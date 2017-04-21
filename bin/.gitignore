@@ -1,12 +1,3 @@
-/maintest/
-/冒泡排序/
-/bubblesort/
-/selectionsort/
-/insertionsort/
-/mergesort/
 /quicksort/
+/selectionsort/
 /heapsort/
-/bucketsort/
-/contingsor/
-/contingsort/
-/radixsort/
